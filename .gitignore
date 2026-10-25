@@ -1,0 +1,16 @@
+# 本地配置：含真实地址与账号密码，不入库（示例见 config.sample.ini）
+config.ini
+
+# 编译产物与调试日志
+AutoRadmin.exe
+AutoRadmin.log
+
+# 旧版遗留：便携版 Radmin 与解压器，当前版本已不再使用
+7za.exe
+RadminViewerPortable.zip
+
+# 工具与系统
+.workbuddy/
+Thumbs.db
+desktop.ini
+*.bak
